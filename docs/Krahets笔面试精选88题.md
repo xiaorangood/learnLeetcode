@@ -23,7 +23,7 @@
 | 哈希表   | [409.最长回文串](https://leetcode.cn/problems/longest-palindrome/) | 简单 | [409.最长回文串](../leetcode/0401-0420/409.最长回文串.md)    | 0529 |      |      |      |
 | 双指针   | [392.判断子序列](https://leetcode.cn/problems/is-subsequence/) | 简单 | [392.判断子序列](../leetcode/0381-0400/392.判断子序列.md)    | 0529 |      |      |      |
 | 双指针   | [876.链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/) | 简单 | [876.链表的中间结点](../leetcode/0861-0880/876.链表的中间结点.md) | 0529 |      |      |      |
-| 双指针   | [160.相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/) | 简单 | [160.相交链表](../leetcode/0161-0180/160.相交链表.md)        | 0529 |      |      |      |
+| 双指针   | [160.相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/) | 简单 | [160.相交链表](../leetcode/0141-0160/160.相交链表.md)        | 0529 |      |      |      |
 | 双指针   | [167.两数之和-II-输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/) | 中等 | [167.两数之和-II-输入有序数组](../leetcode/0161-0180/167.两数之和-II-输入有序数组.md) | 0529 |      |      |      |
 | 双指针   | [142.环形链表-II](https://leetcode.cn/problems/linked-list-cycle-ii/) | 中等 | [142.环形链表-II](../leetcode/0141-0160/142.环形链表-II.md)  | 0605 |      |      |      |
 | 双指针   | [151.反转字符串中的单词](https://leetcode.cn/problems/reverse-words-in-a-string/) | 中等 | [151.反转字符串中的单词](../leetcode/0141-0160/151.反转字符串中的单词.md) | 0605 |      |      |      |
