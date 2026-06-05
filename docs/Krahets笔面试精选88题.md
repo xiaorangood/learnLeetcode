@@ -25,4 +25,9 @@
 | 双指针   | [876. 链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/) | 简单 | [876. 链表的中间结点](..\leetcode\0861-0880\876. 链表的中间结点.md) | 0529 |      |      |      |
 | 双指针   | [160. 相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/) | 简单 | [160. 相交链表](..\leetcode\0161-0180\160. 相交链表.md)      | 0529 |      |      |      |
 | 双指针   | [167. 两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/) | 中等 | [167. 两数之和 II - 输入有序数组](..\leetcode\0161-0180\167. 两数之和 II - 输入有序数组.md) | 0529 |      |      |      |
+| 双指针   | [142. 环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/) | 中等 | [142. 环形链表 II](..\leetcode\0141-0160\142. 环形链表 II.md) | 0605 |      |      |      |
+| 双指针   | [151. 反转字符串中的单词](https://leetcode.cn/problems/reverse-words-in-a-string/) | 中等 | [151. 反转字符串中的单词](..\leetcode\0141-0160\151. 反转字符串中的单词.md) | 0605 |      |      |      |
+| 双指针   | [3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | 中等 | [3. 无重复字符的最长子串](..\leetcode\0001-0020\3. 无重复字符的最长子串.md) | 0605 |      |      |      |
+| 双指针   | [15. 三数之和](https://leetcode.cn/problems/3sum/)           | 中等 | [15. 三数之和](..\leetcode\0001-0020\15. 三数之和.md)        | 0605 |      |      |      |
+| 双指针   | [239. 滑动窗口最大值](https://leetcode.cn/problems/sliding-window-maximum/) | 困难 | [239. 滑动窗口最大值](..\leetcode\0221-0240\239. 滑动窗口最大值.md) | 0605 |      |      |      |
 
