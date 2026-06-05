@@ -6,11 +6,11 @@
 
 | 题目类型 | 题号                                                         | 难度 | 题解                                                         | 0    | +1   | +2   | +3   |
 | -------- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ | ---- | ---- | ---- | ---- |
-| 链表     | [21. 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/) | 简单 |                                                              | 0524 |      |      |      |
-| 链表     | [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/) | 简单 |                                                              | 0524 |      |      |      |
-| 链表     | [86. 分隔链表](https://leetcode.cn/problems/partition-list/) | 中等 |                                                              | 0525 |      |      |      |
-| 链表     | [237. 删除链表中的节点](https://leetcode.cn/problems/delete-node-in-a-linked-list/) | 中等 |                                                              | 0525 |      |      |      |
-| 链表     | [138. 随机链表的复制](https://leetcode.cn/problems/copy-list-with-random-pointer/) | 中等 |                                                              | 0525 |      |      |      |
+| 链表     | [21. 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/) | 简单 | [21. 合并两个有序链表](..\leetcode\0021-0040\21. 合并两个有序链表.md) | 0524 |      |      |      |
+| 链表     | [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/) | 简单 | [206. 反转链表](..\leetcode\0201-0220\206. 反转链表.md)      | 0524 |      |      |      |
+| 链表     | [86. 分隔链表](https://leetcode.cn/problems/partition-list/) | 中等 | [86. 分隔链表](..\leetcode\0081-0100\86. 分隔链表.md)        | 0525 |      |      |      |
+| 链表     | [237. 删除链表中的节点](https://leetcode.cn/problems/delete-node-in-a-linked-list/) | 中等 | [237. 删除链表中的节点](..\leetcode\0221-0240\237. 删除链表中的节点.md) | 0525 |      |      |      |
+| 链表     | [138. 随机链表的复制](https://leetcode.cn/problems/copy-list-with-random-pointer/) | 中等 | [138. 随机链表的复制](..\leetcode\0121-0140\138. 随机链表的复制.md) | 0525 |      |      |      |
 | 栈与队列 | [20. 有效的括号](https://leetcode.cn/problems/valid-parentheses/) | 简单 | [20. 有效的括号](../leetcode\0001-0020\20. 有效的括号.md)    | 0526 |      |      |      |
 | 栈与队列 | [155. 最小栈](https://leetcode.cn/problems/min-stack/)       | 中等 | [155. 最小栈](..\leetcode\0141-0160\155. 最小栈.md)          | 0526 |      |      |      |
 | 栈与队列 | [232. 用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/) | 简单 | [232. 用栈实现队列](..\leetcode\0221-0240\232. 用栈实现队列.md) | 0527 |      |      |      |
