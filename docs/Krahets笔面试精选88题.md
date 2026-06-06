@@ -30,4 +30,6 @@
 | 双指针   | [3.无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | 中等 | [3.无重复字符的最长子串](../leetcode/0001-0020/3.无重复字符的最长子串.md) | 0605 |      |      |      |
 | 双指针   | [15.三数之和](https://leetcode.cn/problems/3sum/)            | 中等 | [15.三数之和](../leetcode/0001-0020/15.三数之和.md)          | 0605 |      |      |      |
 | 双指针   | [239.滑动窗口最大值](https://leetcode.cn/problems/sliding-window-maximum/) | 困难 | [239.滑动窗口最大值](../leetcode/0221-0240/239.滑动窗口最大值.md) | 0605 |      |      |      |
+| 模拟     | [415.字符串相加](https://leetcode.cn/problems/add-strings/)  | 简单 | [415.字符串相加](../leetcode/0401-0420/415.字符串相加.md)    | 0606 |      |      |      |
+| 模拟     | [796.旋转字符串](https://leetcode.cn/problems/rotate-string/) | 简单 | [796.旋转字符串](../leetcode/0781-0800/796.旋转字符串.md)    | 0606 |      |      |      |
 
