@@ -32,4 +32,10 @@
 | 双指针   | [239.滑动窗口最大值](https://leetcode.cn/problems/sliding-window-maximum/) | 困难 | [239.滑动窗口最大值](../leetcode/0221-0240/239.滑动窗口最大值.md) | 0605 |      |      |      |
 | 模拟     | [415.字符串相加](https://leetcode.cn/problems/add-strings/)  | 简单 | [415.字符串相加](../leetcode/0401-0420/415.字符串相加.md)    | 0606 |      |      |      |
 | 模拟     | [796.旋转字符串](https://leetcode.cn/problems/rotate-string/) | 简单 | [796.旋转字符串](../leetcode/0781-0800/796.旋转字符串.md)    | 0606 |      |      |      |
+| 模拟     | [946.验证栈序列](https://leetcode.cn/problems/validate-stack-sequences/) | 中等 | [946.验证栈序列](../leetcode/0941-0960/946.验证栈序列.md)    | 0607 |      |      |      |
+| 模拟     | [6.Z字形变换](https://leetcode.cn/problems/zigzag-conversion/) | 中等 | [6.Z字形变换](../leetcode/0001-0020/6.Z字形变换.md)          | 0607 |      |      |      |
+| 模拟     | [54.螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/)   | 中等 | [54.螺旋矩阵](../leetcode/0041-0060/54.螺旋矩阵.md)          | 0607 |      |      |      |
+| 模拟     | [59.螺旋矩阵-II](https://leetcode.cn/problems/spiral-matrix-ii/) | 中等 | [59.螺旋矩阵-II](../leetcode/0041-0060/59.螺旋矩阵-II.md)    | 0607 |      |      |      |
+| 模拟     | [48.旋转图像](https://leetcode.cn/problems/rotate-image/)    | 中等 | [48.旋转图像](../leetcode/0041-0060/48.旋转图像.md)          | 0607 |      |      |      |
+| 模拟     | [8.字符串转换整数-atoi](https://leetcode.cn/problems/string-to-integer-atoi/) | 中等 | [8.字符串转换整数-atoi](../leetcode/0001-0020/8.字符串转换整数-atoi.md) | 0607 |      |      |      |
 
