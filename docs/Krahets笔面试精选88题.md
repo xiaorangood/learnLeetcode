@@ -38,4 +38,8 @@
 | 模拟     | [59.螺旋矩阵-II](https://leetcode.cn/problems/spiral-matrix-ii/) | 中等 | [59.螺旋矩阵-II](../leetcode/0041-0060/59.螺旋矩阵-II.md)    | 0607 |      |      |      |
 | 模拟     | [48.旋转图像](https://leetcode.cn/problems/rotate-image/)    | 中等 | [48.旋转图像](../leetcode/0041-0060/48.旋转图像.md)          | 0607 |      |      |      |
 | 模拟     | [8.字符串转换整数-atoi](https://leetcode.cn/problems/string-to-integer-atoi/) | 中等 | [8.字符串转换整数-atoi](../leetcode/0001-0020/8.字符串转换整数-atoi.md) | 0607 |      |      |      |
+| 查找     | [704.二分查找](https://leetcode.cn/problems/binary-search/)  | 简单 | [704.二分查找](../leetcode/0701-0720/704.二分查找.md)        | 0608 |      |      |      |
+| 查找     | [278.第一个错误的版本](https://leetcode.cn/problems/first-bad-version/) | 简单 | [278.第一个错误的版本](../leetcode/0261-0280/278.第一个错误的版本.md) | 0608 |      |      |      |
+| 查找     | [724.寻找数组的中心下标](https://leetcode.cn/problems/find-pivot-index/) | 简单 | [724.寻找数组的中心下标](../leetcode/0721-0740/724.寻找数组的中心下标.md) | 0608 |      |      |      |
+| 查找     | [287. 寻找重复数](https://leetcode.cn/problems/find-the-duplicate-number/) | 中等 | [287. 寻找重复数](..\leetcode\0281-0300\287.寻找重复数.md)   | 0608 |      |      |      |
 
