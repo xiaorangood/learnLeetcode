@@ -19,7 +19,7 @@
 | 哈希表   | [242.有效的字母异位词](https://leetcode.cn/problems/valid-anagram/) | 简单 | [242.有效的字母异位词](../leetcode/0241-0260/242.有效的字母异位词.md) | 0528 |      |      |      |
 | 哈希表   | [387.字符串中的第一个唯一字符](https://leetcode.cn/problems/first-unique-character-in-a-string/) | 简单 | [387.字符串中的第一个唯一字符](../leetcode/0381-0400/387.字符串中的第一个唯一字符.md) | 0528 |      |      |      |
 | 哈希表   | [205.同构字符串](https://leetcode.cn/problems/isomorphic-strings/) | 简单 | [205.同构字符串](../leetcode/0201-0220/205.同构字符串.md)    | 0528 |      |      |      |
-|          | [266.回文排列](https://leetcode.cn/problems/palindrome-permutation) |      |                                                              |      |      |      |      |
+| 哈希表   | [266.回文排列](https://leetcode.cn/problems/palindrome-permutation) |      |                                                              |      |      |      |      |
 | 哈希表   | [409.最长回文串](https://leetcode.cn/problems/longest-palindrome/) | 简单 | [409.最长回文串](../leetcode/0401-0420/409.最长回文串.md)    | 0529 |      |      |      |
 | 双指针   | [392.判断子序列](https://leetcode.cn/problems/is-subsequence/) | 简单 | [392.判断子序列](../leetcode/0381-0400/392.判断子序列.md)    | 0529 |      |      |      |
 | 双指针   | [876.链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/) | 简单 | [876.链表的中间结点](../leetcode/0861-0880/876.链表的中间结点.md) | 0529 |      |      |      |
@@ -44,4 +44,9 @@
 | 查找     | [287. 寻找重复数](https://leetcode.cn/problems/find-the-duplicate-number/) | 中等 | [287. 寻找重复数](../leetcode/0281-0300/287.寻找重复数.md)   | 0608 |      |      |      |
 | 查找     | [154.寻找旋转排序数组中的最小值-II](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array-ii/) | 困难 | [154.寻找旋转排序数组中的最小值-II](C:/learnLeetcode/leetcode/0141-0160/154.寻找旋转排序数组中的最小值-II.md) | 0609 |      |      |      |
 | 搜索     | [102.二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/) | 中等 | [102.二叉树的层序遍历](../leetcode/0101-0120/102.二叉树的层序遍历.md) | 0609 |      |      |      |
+| 搜索     | [103.二叉树的锯齿形层序遍历](https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal/) | 中等 | [103.二叉树的锯齿形层序遍历](../leetcode/0101-0120/103.二叉树的锯齿形层序遍历.md) | 0610 |      |      |      |
+| 搜索     | [236.二叉树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/) | 中等 | [236.二叉树的最近公共祖先](../leetcode/0221-0240/236.二叉树的最近公共祖先.md) |      |      |      |      |
+| 搜索     | [230.二叉搜索树中第K小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/) | 中等 | [230.二叉搜索树中第K小的元素](../leetcode/0221-0240/230.二叉搜索树中第K小的元素.md) |      |      |      |      |
+| 搜索     | [426.将二叉搜索树转化为排序的双向链表](https://leetcode.cn/problems/convert-binary-search-tree-to-sorted-doubly-linked-list) |      |                                                              |      |      |      |      |
+| 搜索     | [215.数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array/) | 中等 | [215.数组中的第K个最大元素](../leetcode/0201-0220/215.数组中的第K个最大元素.md) |      |      |      |      |
 
