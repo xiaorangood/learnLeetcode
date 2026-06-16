@@ -59,4 +59,6 @@
 | 回溯     | [79.单词搜索](https://leetcode.cn/problems/word-search/)     | 中等 | [79.单词搜索](../leetcode/0061-0080/79.单词搜索.md)          | 0615     |
 | 分治     | [226.翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/) | 简单 | [226.翻转二叉树](../leetcode/0221-0240/226.翻转二叉树.md)    | 0615     |
 | 分治     | [101.对称二叉树](https://leetcode.cn/problems/symmetric-tree/) | 简单 | [101.对称二叉树](../leetcode/0101-0120/101.对称二叉树.md)    | 0615     |
+| 分治     | [50.Pow(x,n)](https://leetcode.cn/problems/powx-n/)          | 中等 | [50.Pow(x,n)](../leetcode/0041-0060/50.Pow(x,n).md)          | 0616     |
+| 分治     | [110.平衡二叉树](https://leetcode.cn/problems/balanced-binary-tree/) | 简单 | [110.平衡二叉树](../leetcode/0101-0120/110.平衡二叉树.md)    | 0616     |
 
