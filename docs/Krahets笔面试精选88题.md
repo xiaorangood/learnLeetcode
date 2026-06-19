@@ -67,4 +67,6 @@
 | 动态规划 | [70.爬楼梯](https://leetcode.cn/problems/climbing-stairs/)   | 简单 | [70.爬楼梯](../leetcode/0061-0080/70.爬楼梯.md)              | 0618     |
 | 动态规划 | [1480.一维数组的动态和](https://leetcode.cn/problems/running-sum-of-1d-array/) | 简单 | [1480.一维数组的动态和](../leetcode/1461-1480/1480.一维数组的动态和.md) | 0618     |
 | 动态规划 | [121.买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/) | 简单 | [121.买卖股票的最佳时机](../leetcode/0121-0140/121.买卖股票的最佳时机.md) | 0618     |
+| 动态规划 | [64.最小路径和](https://leetcode.cn/problems/minimum-path-sum/) | 中等 | [64.最小路径和](../leetcode/0061-0080/64.最小路径和.md)      | 0619     |
+| 动态规划 | [53.最大子数组和](https://leetcode.cn/problems/maximum-subarray/) | 中等 | [53.最大子数组和](../leetcode/0041-0060/53.最大子数组和.md)  | 0619     |
 
