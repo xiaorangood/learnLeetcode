@@ -69,4 +69,6 @@
 | 动态规划 | [121.买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/) | 简单 | [121.买卖股票的最佳时机](../leetcode/0121-0140/121.买卖股票的最佳时机.md) | 0618     |
 | 动态规划 | [64.最小路径和](https://leetcode.cn/problems/minimum-path-sum/) | 中等 | [64.最小路径和](../leetcode/0061-0080/64.最小路径和.md)      | 0619     |
 | 动态规划 | [53.最大子数组和](https://leetcode.cn/problems/maximum-subarray/) | 中等 | [53.最大子数组和](../leetcode/0041-0060/53.最大子数组和.md)  | 0619     |
+| 动态规划 | [198.打家劫舍](https://leetcode.cn/problems/house-robber/)   | 中等 | [198.打家劫舍](..\leetcode\0181-0200\198.打家劫舍.md)        | 0620     |
+| 动态规划 | [213.打家劫舍-II](https://leetcode.cn/problems/house-robber-ii/) | 中等 | [213.打家劫舍-II](..\leetcode\0201-0220\213.打家劫舍-II.md)  | 0620     |
 
