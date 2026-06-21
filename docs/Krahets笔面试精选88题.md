@@ -1,4 +1,4 @@
-# 《Krahets笔面试精选88题》
+《Krahets笔面试精选88题》
 
 [leetcode页面](https://leetcode.cn/studyplan/selected-coding-interview/)：从“剑指 Offer”和“热题 100”精选出的 88 道高频算法笔试题，适合初学者入门。
 
@@ -69,6 +69,8 @@
 | 动态规划 | [121.买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/) | 简单 | [121.买卖股票的最佳时机](../leetcode/0121-0140/121.买卖股票的最佳时机.md) | 0618     |
 | 动态规划 | [64.最小路径和](https://leetcode.cn/problems/minimum-path-sum/) | 中等 | [64.最小路径和](../leetcode/0061-0080/64.最小路径和.md)      | 0619     |
 | 动态规划 | [53.最大子数组和](https://leetcode.cn/problems/maximum-subarray/) | 中等 | [53.最大子数组和](../leetcode/0041-0060/53.最大子数组和.md)  | 0619     |
-| 动态规划 | [198.打家劫舍](https://leetcode.cn/problems/house-robber/)   | 中等 | [198.打家劫舍](..\leetcode\0181-0200\198.打家劫舍.md)        | 0620     |
-| 动态规划 | [213.打家劫舍-II](https://leetcode.cn/problems/house-robber-ii/) | 中等 | [213.打家劫舍-II](..\leetcode\0201-0220\213.打家劫舍-II.md)  | 0620     |
+| 动态规划 | [198.打家劫舍](https://leetcode.cn/problems/house-robber/)   | 中等 | [198.打家劫舍](../leetcode/0181-0200/198.打家劫舍.md)        | 0620     |
+| 动态规划 | [213.打家劫舍-II](https://leetcode.cn/problems/house-robber-ii/) | 中等 | [213.打家劫舍-II](../leetcode/0201-0220/213.打家劫舍-II.md)  | 0620     |
+| 动态规划 | [300.最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/) | 中等 | [300.最长递增子序列](../leetcode/0281-0300/300.最长递增子序列.md) | 0621     |
+| 动态规划 | [264.丑数-II](https://leetcode.cn/problems/ugly-number-ii/)  | 中等 | [264.丑数-II](../leetcode/0261-0280/264.丑数-II.md)          | 0621     |
 
