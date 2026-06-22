@@ -73,4 +73,5 @@
 | 动态规划 | [213.打家劫舍-II](https://leetcode.cn/problems/house-robber-ii/) | 中等 | [213.打家劫舍-II](../leetcode/0201-0220/213.打家劫舍-II.md)  | 0620     |
 | 动态规划 | [300.最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/) | 中等 | [300.最长递增子序列](../leetcode/0281-0300/300.最长递增子序列.md) | 0621     |
 | 动态规划 | [264.丑数-II](https://leetcode.cn/problems/ugly-number-ii/)  | 中等 | [264.丑数-II](../leetcode/0261-0280/264.丑数-II.md)          | 0621     |
+| 动态规划 | [10.正则表达式匹配](https://leetcode.cn/problems/regular-expression-matching/) | 困难 | [10.正则表达式匹配](../leetcode/0001-0020/10.正则表达式匹配.md) | 0622     |
 
