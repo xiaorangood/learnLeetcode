@@ -74,4 +74,6 @@
 | 动态规划 | [300.最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/) | 中等 | [300.最长递增子序列](../leetcode/0281-0300/300.最长递增子序列.md) | 0621     |
 | 动态规划 | [264.丑数-II](https://leetcode.cn/problems/ugly-number-ii/)  | 中等 | [264.丑数-II](../leetcode/0261-0280/264.丑数-II.md)          | 0621     |
 | 动态规划 | [10.正则表达式匹配](https://leetcode.cn/problems/regular-expression-matching/) | 困难 | [10.正则表达式匹配](../leetcode/0001-0020/10.正则表达式匹配.md) | 0622     |
+| 贪心     | [122.买卖股票的最佳时机-II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/) | 中等 | [122.买卖股票的最佳时机-II](../leetcode\0121-0140\122.买卖股票的最佳时机-II.md) | 0623     |
+| 贪心     | [240.搜索二维矩阵-II](https://leetcode.cn/problems/search-a-2d-matrix-ii/) | 中等 | [240.搜索二维矩阵-II](..\leetcode\0221-0240\240.搜索二维矩阵-II.md) | 0623     |
 
