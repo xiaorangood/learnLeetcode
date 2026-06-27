@@ -74,9 +74,10 @@
 | 动态规划 | [300.最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/) | 中等 | [300.最长递增子序列](../leetcode/0281-0300/300.最长递增子序列.md) | 0621     |
 | 动态规划 | [264.丑数-II](https://leetcode.cn/problems/ugly-number-ii/)  | 中等 | [264.丑数-II](../leetcode/0261-0280/264.丑数-II.md)          | 0621     |
 | 动态规划 | [10.正则表达式匹配](https://leetcode.cn/problems/regular-expression-matching/) | 困难 | [10.正则表达式匹配](../leetcode/0001-0020/10.正则表达式匹配.md) | 0622     |
-| 贪心     | [122.买卖股票的最佳时机-II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/) | 中等 | [122.买卖股票的最佳时机-II](../leetcode\0121-0140\122.买卖股票的最佳时机-II.md) | 0623     |
-| 贪心     | [240.搜索二维矩阵-II](https://leetcode.cn/problems/search-a-2d-matrix-ii/) | 中等 | [240.搜索二维矩阵-II](..\leetcode\0221-0240\240.搜索二维矩阵-II.md) | 0623     |
-| 贪心     | [11.盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/) | 中等 | [11.盛最多水的容器](..\leetcode\0001-0020\11.盛最多水的容器.md) | 0624     |
-| 贪心     | [179.最大数](https://leetcode.cn/problems/largest-number/)   | 中等 | [179.最大数](..\leetcode\0161-0180\179.最大数.md)            | 0624     |
-| 贪心     | [135.分发糖果](https://leetcode.cn/problems/candy/)          | 困难 | [135.分发糖果](..\leetcode\0121-0140\135.分发糖果.md)        | 0625     |
+| 贪心     | [122.买卖股票的最佳时机-II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/) | 中等 | [122.买卖股票的最佳时机-II](../leetcode/0121-0140/122.买卖股票的最佳时机-II.md) | 0623     |
+| 贪心     | [240.搜索二维矩阵-II](https://leetcode.cn/problems/search-a-2d-matrix-ii/) | 中等 | [240.搜索二维矩阵-II](../leetcode/0221-0240/240.搜索二维矩阵-II.md) | 0623     |
+| 贪心     | [11.盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/) | 中等 | [11.盛最多水的容器](../leetcode/0001-0020/11.盛最多水的容器.md) | 0624     |
+| 贪心     | [179.最大数](https://leetcode.cn/problems/largest-number/)   | 中等 | [179.最大数](../leetcode/0161-0180/179.最大数.md)            | 0624     |
+| 贪心     | [135.分发糖果](https://leetcode.cn/problems/candy/)          | 困难 | [135.分发糖果](../leetcode/0121-0140/135.分发糖果.md)        | 0625     |
+| 位运算   | [191.位1的个数](https://leetcode.cn/problems/number-of-1-bits/) | 简单 | [191.位1的个数](../leetcode/0181-0200/191.位1的个数.md)      | 0627     |
 
