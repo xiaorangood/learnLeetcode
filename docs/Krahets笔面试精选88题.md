@@ -80,4 +80,5 @@
 | 贪心     | [179.最大数](https://leetcode.cn/problems/largest-number/)   | 中等 | [179.最大数](../leetcode/0161-0180/179.最大数.md)            | 0624     |
 | 贪心     | [135.分发糖果](https://leetcode.cn/problems/candy/)          | 困难 | [135.分发糖果](../leetcode/0121-0140/135.分发糖果.md)        | 0625     |
 | 位运算   | [191.位1的个数](https://leetcode.cn/problems/number-of-1-bits/) | 简单 | [191.位1的个数](../leetcode/0181-0200/191.位1的个数.md)      | 0627     |
+| 位运算   | [231.二的幂](https://leetcode.cn/problems/power-of-two/)     | 简单 | [231.二的幂](../leetcode/0221-0240/231.二的幂.md)            | 0628     |
 
