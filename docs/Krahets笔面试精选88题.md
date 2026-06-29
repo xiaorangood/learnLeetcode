@@ -79,6 +79,7 @@
 | 贪心     | [11.盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/) | 中等 | [11.盛最多水的容器](../leetcode/0001-0020/11.盛最多水的容器.md) | 0624     |
 | 贪心     | [179.最大数](https://leetcode.cn/problems/largest-number/)   | 中等 | [179.最大数](../leetcode/0161-0180/179.最大数.md)            | 0624     |
 | 贪心     | [135.分发糖果](https://leetcode.cn/problems/candy/)          | 困难 | [135.分发糖果](../leetcode/0121-0140/135.分发糖果.md)        | 0625     |
+| 贪心     | [768.最多能完成排序的块-II](https://leetcode.cn/problems/max-chunks-to-make-sorted-ii/) | 困难 | [768.最多能完成排序的块-II](../leetcode/0761-0780/768.最多能完成排序的块-II.md) | 0629     |
 | 位运算   | [191.位1的个数](https://leetcode.cn/problems/number-of-1-bits/) | 简单 | [191.位1的个数](../leetcode/0181-0200/191.位1的个数.md)      | 0627     |
 | 位运算   | [231.二的幂](https://leetcode.cn/problems/power-of-two/)     | 简单 | [231.二的幂](../leetcode/0221-0240/231.二的幂.md)            | 0628     |
 
