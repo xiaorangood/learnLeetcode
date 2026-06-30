@@ -82,4 +82,7 @@
 | 贪心     | [768.最多能完成排序的块-II](https://leetcode.cn/problems/max-chunks-to-make-sorted-ii/) | 困难 | [768.最多能完成排序的块-II](../leetcode/0761-0780/768.最多能完成排序的块-II.md) | 0629     |
 | 位运算   | [191.位1的个数](https://leetcode.cn/problems/number-of-1-bits/) | 简单 | [191.位1的个数](../leetcode/0181-0200/191.位1的个数.md)      | 0627     |
 | 位运算   | [231.二的幂](https://leetcode.cn/problems/power-of-two/)     | 简单 | [231.二的幂](../leetcode/0221-0240/231.二的幂.md)            | 0628     |
+| 位运算   | [371.两整数之和](https://leetcode.cn/problems/sum-of-two-integers/) | 中等 | [371. 两整数之和](../leetcode/0361-0380/371.两整数之和.md)   | 0630     |
+| 位运算   | [136.只出现一次的数字](https://leetcode.cn/problems/single-number/) | 简单 | [136.只出现一次的数字](../leetcode/0121-0140/136.只出现一次的数字.md) | 0630     |
+| 位运算   | [137.只出现一次的数字-II](https://leetcode.cn/problems/single-number-ii/) | 中等 | [137.只出现一次的数字-II](../leetcode/0121-0140/137.只出现一次的数字-II.md) | 0630     |
 
