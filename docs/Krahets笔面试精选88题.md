@@ -53,7 +53,7 @@
 | 回溯     | [104.二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/) | 简单 | [104.二叉树的最大深度](../leetcode/0101-0120/104.二叉树的最大深度.md) | 0612     |
 | 回溯     | [113.路径总和-II](https://leetcode.cn/problems/path-sum-ii/) | 中等 | [113.路径总和-II](../leetcode/0101-0120/113.路径总和-II.md)  | 0612     |
 | 回溯     | [46.全排列](https://leetcode.cn/problems/permutations/)      | 中等 | [46.全排列](../leetcode/0041-0060/46.全排列.md)              | 0612     |
-| 回溯     | [47.全排列-II](https://leetcode.cn/problems/permutations-ii/) | 中等 | [47.全排列-II](../leetcode/0041-0060/47. 全排列-II.md)       | 0612     |
+| 回溯     | [47.全排列-II](https://leetcode.cn/problems/permutations-ii/) | 中等 | [47.全排列-II](../leetcode/0041-0060/47.全排列-II.md)        | 0612     |
 | 回溯     | [39.组合总和](https://leetcode.cn/problems/combination-sum/) | 中等 | [39.组合总和](../leetcode/0021-0040/39.组合总和.md)          | 0614     |
 | 回溯     | [40.组合总和-II](https://leetcode.cn/problems/combination-sum-ii/) | 中等 | [40.组合总和-II](../leetcode/0021-0040/40.组合总和-II.md)    | 0614     |
 | 回溯     | [79.单词搜索](https://leetcode.cn/problems/word-search/)     | 中等 | [79.单词搜索](../leetcode/0061-0080/79.单词搜索.md)          | 0615     |
