@@ -85,4 +85,7 @@
 | 位运算   | [371.两整数之和](https://leetcode.cn/problems/sum-of-two-integers/) | 中等 | [371. 两整数之和](../leetcode/0361-0380/371.两整数之和.md)   | 0630     |
 | 位运算   | [136.只出现一次的数字](https://leetcode.cn/problems/single-number/) | 简单 | [136.只出现一次的数字](../leetcode/0121-0140/136.只出现一次的数字.md) | 0630     |
 | 位运算   | [137.只出现一次的数字-II](https://leetcode.cn/problems/single-number-ii/) | 中等 | [137.只出现一次的数字-II](../leetcode/0121-0140/137.只出现一次的数字-II.md) | 0630     |
+| 数学     | [238.除了自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self/) | 中等 | [238.除了自身以外数组的乘积](../leetcode/0221-0240/238.除了自身以外数组的乘积.md) | 0701     |
+| 数学     | [169.多数元素](https://leetcode.cn/problems/majority-element/) | 简单 | [169.多数元素](../leetcode/0161-0180/169.多数元素.md)        | 0701     |
+| 数学     | [343.整数拆分](https://leetcode.cn/problems/integer-break/)  | 中等 | [343.整数拆分](../leetcode/0341-0360/343.整数拆分.md)        | 0701     |
 
