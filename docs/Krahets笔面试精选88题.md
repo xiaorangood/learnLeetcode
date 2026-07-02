@@ -88,4 +88,7 @@
 | 数学     | [238.除了自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self/) | 中等 | [238.除了自身以外数组的乘积](../leetcode/0221-0240/238.除了自身以外数组的乘积.md) | 0701     |
 | 数学     | [169.多数元素](https://leetcode.cn/problems/majority-element/) | 简单 | [169.多数元素](../leetcode/0161-0180/169.多数元素.md)        | 0701     |
 | 数学     | [343.整数拆分](https://leetcode.cn/problems/integer-break/)  | 中等 | [343.整数拆分](../leetcode/0341-0360/343.整数拆分.md)        | 0701     |
+| 数学     | [89.格雷编码](https://leetcode.cn/problems/gray-code/)       | 中等 | [89.格雷编码](../leetcode/0081-0100/89.格雷编码.md)          | 0702     |
+| 数学     | [1823.找出游戏的获胜者](https://leetcode.cn/problems/find-the-winner-of-the-circular-game/) | 中等 | [1823.找出游戏的获胜者](../leetcode/1821-1840/1823.找出游戏的获胜者.md) | 0702     |
+| 数学     | [400.第N位数字](https://leetcode.cn/problems/nth-digit/)     | 中等 | [400.第N位数字](../leetcode/0381-0400/400.第N位数字.md)      | 0702     |
 
